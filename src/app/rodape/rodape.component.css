@@ -1,0 +1,48 @@
+.bg{
+    background-color: #02457A;
+}
+
+.center{
+    justify-content: center;
+    align-items: center;
+}
+
+
+ul.social-network{
+
+    list-style: none;
+    padding: 0;
+
+}
+
+ul.social-network li{
+    display: inline;
+    text-align: center;
+    margin: 0;
+    padding: 30px;
+
+}
+
+.fa{
+    font-size: 35pt;
+    color: white;
+    padding: 10px;
+}
+
+.fa-facebook-square:hover{
+
+    color: #001B48;
+}
+
+.fa-behance:hover{
+
+    color: #001B48;
+}
+
+.fa-linkedin-square:hover{
+
+    color: #001B48;
+}
+.bag{
+    background:  #02457A;
+}

@@ -1,0 +1,15 @@
+.bg{
+
+    background-image: url(https://imgur.com/14WHsEk.png);
+}
+
+.txt{
+    color: white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+}
+.fs-54{
+    font-size: 54pt;
+}
+.fs-18{
+    font-size: 18pt;
+}
